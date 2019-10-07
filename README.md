@@ -25,4 +25,6 @@ Reference:
 2. `cd nmap-cve2019-15846`
 3. `mv smtp-vuln-cve2019-15846.nse /usr/share/nmap/scripts`
 
+# Disclamer
 
+This software comes with no warranties and support. Detection of vulnerable services might not be sufficient for non-trivial cases of RDP services.
